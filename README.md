@@ -4,6 +4,8 @@
 
 My name is Kirill and I'm a frontend developer from Russia
 
+🔎 I'm currently learning: **![Jest](https://img.shields.io/badge/jest-%2320232a.svg?style=for-the-badge&logo=jest&logoColor=%2361DAFB)**
+
 ###
 
 # 💻 Tech Stack:
