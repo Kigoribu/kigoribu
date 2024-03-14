@@ -4,7 +4,7 @@
   
 My name is Kirill and I'm a frontend developer from Russia
   
-🔎 I'm currently learning: **Jest**, **React Testing Library**  
+🔎 I'm currently learning: **Jest**, **React Testing Library**; **NestJS**  
 📫 How to reach me: kigoribu@gmail.com  
 🌐 My website: https://next-js-resume-mu.vercel.app  
   
